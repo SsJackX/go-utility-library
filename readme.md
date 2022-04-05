@@ -22,7 +22,9 @@ cast: *https://github.com/spf13/cast*
 
 go-ps: https://github.com/mitchellh/go-ps
 
+> 3.2 Go 进程平滑重启库
 
+tableflip:https://github.com/cloudflare/tableflip
 
 
 
