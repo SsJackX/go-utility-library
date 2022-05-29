@@ -53,6 +53,13 @@ retry-go: https://github.com/avast/retry-go
 
 tile38:https://github.com/tidwall/tile38
 
+## 97 蓝牙通信
+
+> 97.1 bluetooth 
+
+[tinygo-org/bluetooth: Cross-platform Bluetooth API for Go and TinyGo. (github.com)](https://github.com/tinygo-org/bluetooth)
+
+
 
 ## 98 网络管理
 
