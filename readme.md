@@ -44,6 +44,10 @@ go-homedir: https://github.com/mitchellh/go-homedir
 
 retry-go: https://github.com/avast/retry-go
 
+> 5.2 数据验证
+
+Validate:https://github.com/gookit/validate
+
 
 
 ## 6 地理空间数据库
