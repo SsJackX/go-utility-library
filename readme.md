@@ -67,6 +67,14 @@ gocache: https://github.com/bluele/gcache
 tile38: https://github.com/tidwall/tile38
 ```
 
+## 96 数据分析
+
+> 96.1 web访问数据分析
+
+```url
+umami: https://github.com/umami-software/umami
+```
+
 ## 97 蓝牙通信
 
 > 97.1 bluetooth 
