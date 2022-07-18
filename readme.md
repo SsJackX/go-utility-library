@@ -67,6 +67,14 @@ gocache: https://github.com/bluele/gcache
 tile38: https://github.com/tidwall/tile38
 ```
 
+## 7 位操作
+
+> 7.1 位操作
+
+```shell
+https://github.com/bits-and-blooms/bitset
+```
+
 ## 96 数据分析
 
 > 96.1 web访问数据分析
