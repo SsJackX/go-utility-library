@@ -75,6 +75,14 @@ tile38: https://github.com/tidwall/tile38
 https://github.com/bits-and-blooms/bitset
 ```
 
+## 8 文件操作
+
+> 8.1 文件或目录事件监视
+
+```shell
+https://github.com/radovskyb/watcher
+```
+
 ## 96 数据分析
 
 > 96.1 web访问数据分析
