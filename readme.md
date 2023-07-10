@@ -83,6 +83,14 @@ https://github.com/bits-and-blooms/bitset
 https://github.com/radovskyb/watcher
 ```
 
+## 9 环境变量操作
+
+> 9.1 将环境变量解析为结构体
+
+```shell
+https://github.com/caarlos0/env
+```
+
 ## 96 数据分析
 
 > 96.1 web访问数据分析
