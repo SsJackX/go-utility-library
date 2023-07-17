@@ -91,6 +91,16 @@ https://github.com/radovskyb/watcher
 https://github.com/caarlos0/env
 ```
 
+## 10 获取硬件信息
+
+> 10.1 获取系统硬件参数
+
+```shell
+https://github.com/jaypipes/ghw
+```
+
+
+
 ## 96 数据分析
 
 > 96.1 web访问数据分析
