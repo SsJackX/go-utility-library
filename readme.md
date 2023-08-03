@@ -168,3 +168,13 @@ curlconverter: https://curlconverter.com
 ```url
 goutil: https://github.com/gookit/goutil/
 ```
+
+## 100 函数库
+
+> 100.1 lancet（柳叶刀）是一个全面、高效、可复用的go语言工具函数库。
+
+```http
+# 全面、高效、可复用的go语言工具函数库
+https://github.com/duke-git/lancet/tree/main
+```
+
